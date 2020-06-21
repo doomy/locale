@@ -1,0 +1,12 @@
+{
+    "name": "doomy/locale",
+    "autoload": {
+      "classmap": ["src/"]
+    },
+    "require": {
+		"php": ">= 7.1",
+		"dibi/dibi": "*",
+        "doomy/repository": "*"
+    },
+	"minimum-stability": "stable"
+}
